@@ -1,0 +1,21 @@
+{
+  "name": "github-markdown-less",
+  "homepage": "https://github.com/vernak2539/github-markdown-less",
+  "authors": [
+    "Alex Vernacchia <avernacchia@exacttarget.com>"
+  ],
+  "description": "LESS port of CSS used for Github.com's Markdown",
+  "main": "github-markdown.less",
+  "keywords": [
+    "github",
+    "markdown",
+    "less",
+    "md",
+    "style",
+    "stylesheet"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*"
+  ]
+}
