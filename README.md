@@ -4,7 +4,7 @@ This LESS source should resemble the CSS used in Github.com's Markdown.
 
 **Install with Bower**
 
-``bower install --save github-markdown-less`
+`bower install --save github-markdown-less`
 
 To use with your project replace `.readme` selector with the container of your generated markdown.
 
