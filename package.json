@@ -1,0 +1,32 @@
+{
+  "name": "github-markdown-less",
+  "version": "1.0.0",
+  "description": "LESS port of CSS used for Github.com's Markdown",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vernak2539/github-markdown-less.git"
+  },
+  "keywords": [
+    "github",
+    "markdown",
+    "less",
+    "md",
+    "style",
+    "stylesheet"
+  ],
+  "author": {
+    "name:": "Alex Vernacchia",
+    "email": "alvernacchia@gmail.com",
+    "url": "http://babble.byvernacchia.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vernak2539/github-markdown-less/issues"
+  },
+  "homepage": "https://github.com/vernak2539/github-markdown-less",
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "gulp-less": "^1.3.6",
+    "gulp-rename": "^1.2.0"
+  }
+}
